@@ -1,5 +1,5 @@
 # Indian-premier-league-IPL-First-Innings-Score-Prediction
-![FISP](readme-resources/first-innings-banner.png)
+![FISP](readme-resources/First-innings-banner.png)
 ![Python](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![sklearn](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
 ## Project Overview
@@ -34,7 +34,7 @@
 ## Data Cleaning and Preprocessing
 • **Removing unwanted columns**<br/>
 • **Keeping only consistent teams**<br/>
-![ct](readme-resources/consistent_teams.PNG)<br/>
+![ct](readme-resources/Consistent_teams.PNG)<br/>
 • **Removing the first 5 overs data in every match**<br/>
 • **Converting the column 'date' from string into datetime object**<br/>
 • **Handling categorical features**
@@ -47,7 +47,7 @@ Evaluation metric: Root Mean Squared Error (RMSE)<br/>
 • **Adaptive Boosting (AdaBoost) - 15.798**
 
 ## Model Prediction
-![pred](readme-resources/prediction.PNG)<br/>
+![pred](readme-resources/Prediction.PNG)<br/>
 
 ## Future Scope
 • Add columns in dataset of top batsmen and bowlers of all the teams.<br/>
